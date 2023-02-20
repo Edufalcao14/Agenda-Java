@@ -15,10 +15,6 @@
 			<th>Version</th>
 		</tr>
 		<tr>
-			<td>spring initialzr</td>
-			<td><a href="https://start.spring.io/" rel="nofollow">https://start.spring.io/</a></td>
-		</tr>
-		<tr>
 			<td>Java</td>
 			<td>17</td>
 		</tr>
