@@ -1,4 +1,4 @@
-<h1> Calendar Aplication </h1>
+<h1> Agenda Aplication </h1>
 
 <h2 style="font-size:1.5em;"> Description: </h2>
 <p style="font-size:1em;">My goal with this code was to create an agenda application using the Map data structure for study purposes, in this code I implemented a Map with an integer for the days of the month, and a list for the events of the day. I implemented 3 methods, one to add an event, another to remove an event and a last one to verify all the events of the day.</p>
