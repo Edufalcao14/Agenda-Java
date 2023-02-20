@@ -11,7 +11,7 @@
 <table>
 	<tbody>
 		<tr>
-			<th>Dependencies</th>
+			<th>Language</th>
 			<th>Version</th>
 		</tr>
 		<tr>
